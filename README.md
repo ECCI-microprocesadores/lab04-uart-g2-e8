@@ -76,6 +76,11 @@ La implementación del UART en el PIC18F45K22 permitió comprender mejor cómo s
 
 ## Código del proyecto 
 
+## graficas 
+![GRAFICA1](./GRAFICAS/GRAFICA1.PNG)
+![GRAFICA2](./GRAFICAS/GRAFICA2.PNG)
+![imagen1](./GRAFICAS/imagen1.png)
+
 ## montaje 
 ![imagen2](./MONTAJE/imagen2.png)
 ![imagen3](./MONTAJE/imagen3.png)
@@ -83,7 +88,7 @@ La implementación del UART en el PIC18F45K22 permitió comprender mejor cómo s
 ![imagen5](./MONTAJE/imagen5.png)
 ![imagen6](./MONTAJE/imagen6.png)
 
+## diagrama de flujo
 ## graficas 
-![GRAFICA1](./GRAFICAS/GRAFICA1.PNG)
-![GRAFICA2](./GRAFICAS/GRAFICA2.PNG)
-![imagen1](./GRAFICAS/imagen1.png)
+![diagrama1](./DIAGRAMAS/diagrama1.png)
+![diagrama2](./DIAGRAMAS/diagrama2.png)
