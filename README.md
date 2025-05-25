@@ -72,11 +72,9 @@ La implementación del UART en el PIC18F45K22 permitió comprender mejor cómo s
 
 [3] PuTTY: https://www.putty.org
 
-### Implmentación
+### IMPLEMENTACION
 
 ## Código del proyecto 
-## Códigos del Laboratorio 
-
 - [ADC - Código en C](./CODIGOS/UART.X/adc.c)
 - [ADC - Header File](./CODIGOS/UART.X/adc.h)  
 - [Main - Código en C](./CODIGOS/UART.X/MAIN.c)
