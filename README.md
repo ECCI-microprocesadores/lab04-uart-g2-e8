@@ -75,6 +75,12 @@ La implementación del UART en el PIC18F45K22 permitió comprender mejor cómo s
 ### Implmentación
 
 ## Código del proyecto 
+## Códigos del Laboratorio PWM
+
+- [ADC - Código en C](./CODIGOS/adc.c)
+- [ADC - Header File](./CODIGOS/adc.h)
+- [Main - Código en C](./CODIGOS/main.c)
+- [Archivo comprimido del proyecto](./CODIGOS/UART.X.zip) 
 
 ## graficas 
 ![GRAFICA1](./GRAFICAS/GRAFICA1.PNG)
